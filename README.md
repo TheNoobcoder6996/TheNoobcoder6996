@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ..
 
-- ⚡ Fun fact: until i dont fully learn coding im homeless lets goo
+- ⚡ Fun fact: theres no fun fact
+- 
 
 <!---
 TheNoobcoder6996/TheNoobcoder6996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
